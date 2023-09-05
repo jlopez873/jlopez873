@@ -5,7 +5,7 @@ I'm a Data Analyst & Operations Specialist with a strong background in data mana
 - 🔭 I most recently worked as a Data Analyst & Operations Specialist at Lyft.
 - 🌱 I hold an M.S. in Data Analytics from Western Governors University.
 - 💬 Ask me about data analysis, machine learning, and business operations.
-- 📫 How to reach me: contact@javierlopezcastillo.com
+- 📫 How to reach me: hello@javierlopezcastillo.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a dog dad to six chihuahuas.
 
